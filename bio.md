@@ -9,3 +9,5 @@ My favorite project in CS 162 was the combat game we created. It was an excersis
 
 I also liked Assembly Language and Computer Architecture. It was a very fascinating class and I enjoyed learning more about how processors and machine code work.
 programming-bio
+
+I am looking forward to this class on Web Development and my other class on Databases this term.
