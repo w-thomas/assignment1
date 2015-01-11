@@ -2,4 +2,6 @@ My name is Will and I'm in my second year in the CS program at OSU. I got my fir
 
 Outside of work in school my hobbies include reading, video games, guitar and homebrewing beer.
 
+I just bought a house with my wife in August. We live in Oregon.
+
 Programming Background:
