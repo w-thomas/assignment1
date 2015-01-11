@@ -3,3 +3,4 @@ My name is Will and I'm in my second year in the CS program at OSU. I got my fir
 Outside of work in school my hobbies include reading, video games, guitar and homebrewing beer.
 
 Programming Background:
+My favorite project in CS 162 was the combat game we created. It was an excersise in using class objects, and involved creating a simple text based RPG combat game similar to something like Dungeongs and Dragons.
