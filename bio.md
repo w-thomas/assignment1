@@ -4,3 +4,5 @@ Outside of work in school my hobbies include reading, video games, guitar and ho
 
 Programming Background:
 My favorite project in CS 162 was the combat game we created. It was an excersise in using class objects, and involved creating a simple text based RPG combat game similar to something like Dungeongs and Dragons.
+
+I also liked Assembly Language and Computer Architecture. It was a very fascinating class and I enjoyed learning more about how processors and machine code work.
