@@ -4,6 +4,8 @@ Outside of work in school my hobbies include reading, video games, guitar and ho
 
 I just bought a house with my wife in August. We live in Oregon.
 
+Alternate bio change: We are getting ready to get a pet. We are going to get a cat!
+
 Programming Background:
 My favorite project in CS 162 was the combat game we created. It was an excersise in using class objects, and involved creating a simple text based RPG combat game similar to something like Dungeongs and Dragons.
 
